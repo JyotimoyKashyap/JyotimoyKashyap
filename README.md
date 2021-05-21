@@ -12,5 +12,11 @@ Here are some ideas to get you started:
 
 --- 
 
-![Jyotimoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JyotimoyKashyap&show_icons=true&theme=radical)
+![Jyotimoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JyotimoyKashyap&show_icons=true&theme=merko)
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotimoyKashyap&show_icons=true&layout=compact&theme=merko&hide=javascript,html,css,express,ejs,shell)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
