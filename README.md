@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotimoyKashyap&show_icons=true&layout=compact&theme=merko&hide=javascript,html,css,express,ejs,shell)](https://github.com/anuraghazra/github-readme-stats)
 
----
-[![Jyotimoy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JyotimoyKashyap&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
