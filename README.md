@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jyotimoy Kashyap
 #### GDSC Lead 2021-22 | Android Developer | UX/UI Enthusiast | CSE undergrad at NIT Silchar
-![GDSC Lead 2021-22 | Android Developer | UX/UI Enthusiast | CSE undergrad at NIT Silchar](https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/banner.gifges/banner.png)
+![GDSC Lead 2021-22 | Android Developer | UX/UI Enthusiast | CSE undergrad at NIT Silchar](https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/banner.gif?raw=true)
 
 I like UI/UX and that inspires me every day to make to enhance my skills more and more on Android and its latest advancements. I'm always looking for contributing to open source android projects. 
 
