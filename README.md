@@ -3,12 +3,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ML integration in Android
-- 🌱 I’m currently learning Kotlin.
-- 💬 Ask me about Android - Frontend to be specific
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I love UI/UX
+- 🔭 I’m currently working on Kotlin Coroutines and Paging
+- 🌱 I’m currently learning pretty much anything that's beneficial. 
+- 💬 Ask me about Android 
+- 📫 How to reach me: 
+
 
 --- 
 
