@@ -19,15 +19,23 @@ I like UI/UX and that inspires me every day to make to enhance my skills more an
 - 💬 Ask me about Android Development  
 
 
-[<img src='https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/github_icon.png?raw=true' alt='github' height='40'>](https://github.com/JyotimoyKashyap)  [<img src='https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/linkedin_icon.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jyotimoykashyap//)  [<img src='https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/facebook_icon.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/jyotimoy.kashyap.33)  [<img src='https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/instagram_icon.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/jyotimoy_kashyap06//)  
+### Connect with me : 
+[<img src='https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/github_icon.png?raw=true' alt='github' height='30'>](https://github.com/JyotimoyKashyap)  [<img src='https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/linkedin_icon.png?raw=true' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jyotimoykashyap//)  [<img src='https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/facebook_icon.png?raw=true' alt='facebook' height='30'>](https://www.facebook.com/https://www.facebook.com/jyotimoy.kashyap.33)  [<img src='https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/instagram_icon.png?raw=true' alt='instagram' height='30'>](https://www.instagram.com/https://www.instagram.com/jyotimoy_kashyap06//)  
+
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JyotimoyKashyap&show_icons=true&count_private=true&theme=radical)  
 
+---
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JyotimoyKashyap&theme=github)  
+
+---
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JyotimoyKashyap&theme=dark)  
 
 ![Profile views](https://gpvc.arturio.dev/JyotimoyKashyap)  
+
 
 
 
