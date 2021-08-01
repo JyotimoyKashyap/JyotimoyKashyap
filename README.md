@@ -34,7 +34,7 @@ I like UI/UX and that inspires me every day to make to enhance my skills more an
 
 
 ### 📭 Reach me out : 
-[<img src='https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/github_icon.png?raw=true' alt='github' height='30'>](https://github.com/JyotimoyKashyap) [<img src='https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/linkedin_icon.png?raw=true' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jyotimoykashyap//)  [<img src='https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/facebook_icon.png?raw=true' alt='facebook' height='30'>](https://www.facebook.com/https://www.facebook.com/jyotimoy.kashyap.33)  [<img src='https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/instagram_icon.png?raw=true' alt='instagram' height='30'>](https://www.instagram.com/https://www.instagram.com/jyotimoy_kashyap06//)  
+[<img src='https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/assets/icons/github_icon.png?raw=true' alt='github' height='30'>](https://github.com/JyotimoyKashyap) [<img src='https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/assets/icons/linkedin_icon.png?raw=true' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jyotimoykashyap//)  [<img src='https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/assets/icons/facebook_icon.png?raw=true' alt='facebook' height='30'>](https://www.facebook.com/https://www.facebook.com/jyotimoy.kashyap.33)  [<img src='https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/assets/icons/instagram_icon.png?raw=true' alt='instagram' height='30'>](https://www.instagram.com/https://www.instagram.com/jyotimoy_kashyap06//)  
 
 
 
