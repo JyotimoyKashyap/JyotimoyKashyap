@@ -38,14 +38,18 @@ I like UI/UX and that inspires me every day to make to enhance my skills more an
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JyotimoyKashyap&show_icons=true&count_private=true&theme=tokyonight)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JyotimoyKashyap&show_icons=true&count_private=true&theme=tokyonight)   -->
 
 ---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JyotimoyKashyap&theme=github)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JyotimoyKashyap&theme=github)   -->
 
----
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JyotimoyKashyap&theme=dark)  -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JyotimoyKashyap&theme=dark)  
+| Github Stats | Github Streak |
+|--------------|---------------|
+| ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JyotimoyKashyap&theme=dark)   | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JyotimoyKashyap&show_icons=true&count_private=true&theme=tokyonight)    |
+
+
 
 ![Profile views](https://gpvc.arturio.dev/JyotimoyKashyap)  
