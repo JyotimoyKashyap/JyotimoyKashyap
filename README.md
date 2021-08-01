@@ -17,8 +17,8 @@ I like UI/UX and that inspires me every day to make to enhance my skills more an
 
 ### Tools & Technologies : 
 ![Firebase](https://img.icons8.com/color/50/000000/firebase.png)
-<img align="left" alt="Android Studio" width="48px" height="48px" src="https://raw.githubusercontent.com/JyotimoyKashyap/JyotimoyKashyap/34803a2cf986a409261d9dab17a64f675f168d2b/android-studio.svg" />
-<img align="left" alt="Postman" width="48px" height="48px" src="https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/postman_icon.png?raw=true" />
+<img align="left" alt="Android Studio" width="48px" height="48px" src="https://raw.githubusercontent.com/JyotimoyKashyap/JyotimoyKashyap/6ac6694aecdc748790c9639bfb723269948e7090/assets/icons/android-studio.svg" />
+<img align="left" alt="Postman" width="48px" height="48px" src="https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/assets/icons/postman_icon.png?raw=true" />
 ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png)
 ![VSCode](https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png)
