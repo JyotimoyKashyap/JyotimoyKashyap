@@ -48,7 +48,8 @@ I like UI/UX and that inspires me every day to make to enhance my skills more an
 
 | Github Stats | Github Streak |
 |--------------|---------------|
-| ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JyotimoyKashyap&theme=dark)   | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JyotimoyKashyap&show_icons=true&count_private=true&theme=tokyonight)    |
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotimoyKashyap&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JyotimoyKashyap&show_icons=true&count_private=true&theme=tokyonight)    |
 
 
 
