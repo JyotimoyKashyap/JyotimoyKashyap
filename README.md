@@ -26,10 +26,10 @@ I like UI/UX and that inspires me every day to make to enhance my skills more an
 
 
 ### Some Updates :
-- 🔭 I’m currently working on Kotlin Coroutines and Paging 3 library 
-- 🌱 I’m currently learning anything that is beneficial  
+- 🔭 I’m currently working on publishing android libraries to MavenCentral() 
+- 🌱 I’m currently learning nodejs  
 - 👯 I’m looking to collaborate on open source android projects  
-- 🤔 I’m looking for help with Integrating ML into Android Apps 
+- 🤔 I’m looking for help with publishing android libraries 
 - 💬 Ask me about Android Development  
 
 
@@ -48,7 +48,7 @@ I like UI/UX and that inspires me every day to make to enhance my skills more an
 
 | Github Stats | Github Streak |
 |--------------|---------------|
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotimoyKashyap&layout=compact&theme=tokyonight&hide=css,ejs,html) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JyotimoyKashyap&show_icons=true&count_private=true&theme=tokyonight)    |
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotimoyKashyap&layout=compact&theme=tokyonight&hide=css,ejs,html,jupyter%20notebook&langs_count=8) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JyotimoyKashyap&show_icons=true&count_private=true&theme=tokyonight)    |
 
 
 
