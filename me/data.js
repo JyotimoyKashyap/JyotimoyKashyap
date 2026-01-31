@@ -98,6 +98,7 @@ window.profileData = {
     achievements: [
         {
             title: "HackHarvard Winner",
+            link: "https://devpost.com/software/cough-it",
             description: "Won 1st Best Overall Hack at HackHarvard 2021 for 'Cough It', a project built from scratch."
         }
     ],
