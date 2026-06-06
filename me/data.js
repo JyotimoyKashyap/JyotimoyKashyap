@@ -103,6 +103,24 @@ window.profileData = {
         }
     ],
 
+    // Check it Out (Projects)
+    projects: [
+        {
+            title: "System Design Labs",
+            badge: "Live App",
+            description: "A unified hub of interactive visualizers for distributed systems concepts. Features Raft Consensus and Bloom Filters, built with React, TypeScript, and Framer Motion.",
+            primaryLink: {
+                text: "View Site",
+                url: "https://jyotimoykashyap.github.io/system-design-labs/"
+            },
+            secondaryLink: {
+                text: "GitHub",
+                url: "https://github.com/jyotimoykashyap/system-design-labs",
+                icon: "github"
+            }
+        }
+    ],
+
     footer: {
         year: "2026",
         text: "Designed in code."
