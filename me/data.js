@@ -4,9 +4,9 @@ window.profileData = {
     role: "Software Engineer",
     roleUpdating: "crafting",
     roleObject: "intuitive experiences.",
-    email: "jyotimoy.work.dev@gmail.com",
-    tagline: "I am a Software Engineer II at Oracle (2023–Present) with a passion for Android development. I build intuitive user experiences and contribute to the community through technical writing.",
-    tags: ["Android Developer", "Tech Writer", "NIT Silchar"],
+    email: "jyotimoykashyap123@gmail.com",
+    tagline: "Software Engineer II at Oracle NetSuite specializing in backend development, database modeling, and building scalable enterprise applications from 0-to-1. Passionate about distributed systems and actively exploring scalable design patterns.",
+    tags: ["Backend Development", "System Design", "Database Modeling", "NIT Silchar"],
 
     // Social Links Configuration
     socialLinks: [
@@ -54,12 +54,12 @@ window.profileData = {
                 {
                     title: "Software Engineer II",
                     duration: "Oct 2025 - Present",
-                    description: "Skills: Core Java, .NET Framework, Enterprise Application Development."
+                    description: "Earning the 2026 'Star Performer Award': Engineered the Java backend schema and data aggregation pipeline from scratch for NetSuite's 'CFO Insights'. Overcame strict relational SQL reporting constraints using dimensional modeling techniques."
                 },
                 {
                     title: "Software Engineer",
                     duration: "Jul 2023 - Oct 2025",
-                    description: "Full-time software engineering role focusing on backend services and performance optimization."
+                    description: "Earning the 2025 'Star Performer Award' and 2024 'Helping Hand Award': Developed the secure .NET/C# backend logic, matching algorithms, and bulk ingestion pipelines for the 'Digital W-2' self-service portal, automating tax form delivery for enterprise payrolls."
                 }
             ]
         },
@@ -72,7 +72,7 @@ window.profileData = {
                     title: "Android Developer",
                     duration: "May 2022 - Jun 2023",
                     type: "Internship",
-                    description: "Skills: Android, Google API. Contributed to flagship mobile app features."
+                    description: "Navigated low-level Android SDKs, custom View rendering, and hardware APIs from scratch. Designed an automated background notification and user re-engagement pipeline using Android WorkManager."
                 }
             ]
         }
@@ -85,12 +85,6 @@ window.profileData = {
             role: "GDSC Lead",
             duration: "Jul 2021 - Jul 2022",
             description: "Led a community of developers to solve local business problems using Google technologies. Organized workshops and built a peer-to-peer learning environment for students."
-        },
-        {
-            organization: "Major League Hacking",
-            role: "MLH Prep Fellow",
-            duration: "Apr 2022 - Apr 2022",
-            description: "Collaborated on a portfolio website and a React weather app with geolocation. Gained experience in pair programming and team collaboration."
         }
     ],
 
@@ -100,6 +94,10 @@ window.profileData = {
             title: "HackHarvard Winner",
             link: "https://devpost.com/software/cough-it",
             description: "Won 1st Best Overall Hack at HackHarvard 2021 for 'Cough It', a project built from scratch."
+        },
+        {
+            title: "Certifications",
+            description: "Oracle Cloud Infrastructure AI Foundations Associate (Sep 2025) and Kotlin for Java Developers (Dec 2020)."
         }
     ],
 
@@ -108,7 +106,7 @@ window.profileData = {
         {
             title: "System Design Labs",
             badge: "Live App",
-            description: "A unified hub of interactive visualizers for distributed systems concepts. Features Raft Consensus and Bloom Filters, built with React, TypeScript, and Framer Motion.",
+            description: "An open-source, containerized mono-repo (TypeScript/Docker) dedicated to building interactive visualizers and experimenting with distributed backend caching layers.",
             primaryLink: {
                 text: "View Site",
                 url: "https://jyotimoykashyap.github.io/system-design-labs/"
@@ -117,6 +115,15 @@ window.profileData = {
                 text: "GitHub",
                 url: "https://github.com/jyotimoykashyap/system-design-labs",
                 icon: "github"
+            }
+        },
+        {
+            title: "Cough It",
+            badge: "Hackathon Winner",
+            description: "A Kotlin-based Android app and Node.js/AWS backend that diagnoses COVID-19 from acoustic cough samples using a custom CNN (94.6% accuracy, Rank 1 at DiCOVA Challenge).",
+            primaryLink: {
+                text: "Devpost",
+                url: "https://devpost.com/software/cough-it"
             }
         }
     ],
