@@ -1,55 +1,41 @@
-![GDSC Lead 2021-22 | Android Developer | UX/UI Enthusiast | CSE undergrad at NIT Silchar](https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/assets/banner/banner.gif?raw=true)
+# Hi, I'm Jyotimoy Kashyap 👋
 
+**Software Engineer II @ Oracle (NetSuite)**  
+*Backend & Distributed Systems • Java • System Design & Low-Level Design*
 
-<h2 align="center">
-    Hi There, I'm Jyotimoy Kashyap!
-    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />
-</h3>
-
-### GDSC Lead 2021-22 | Android Developer | UX/UI Enthusiast | CSE undergrad at NIT Silchar
-
-
-I like UI/UX and that inspires me every day to make to enhance my skills more and more on Android and its latest advancements. I'm always looking for contributing to open source android projects. 
-
-
-### Tools & Technologies : 
-![Firebase](https://img.icons8.com/color/50/000000/firebase.png)
-<img align="left" alt="Android Studio" width="48px" height="48px" src="https://raw.githubusercontent.com/JyotimoyKashyap/JyotimoyKashyap/6ac6694aecdc748790c9639bfb723269948e7090/assets/icons/android-studio.svg" />
-<img align="left" alt="Postman" width="48px" height="48px" src="https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/assets/icons/postman_icon.png?raw=true" />
-![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png)
-![VSCode](https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png)
-![Android](https://img.icons8.com/fluency/50/000000/android-os.png)
-
-
-### Some Updates :
-- 🔭 I’m currently working on publishing android libraries to MavenCentral() 
-- 🌱 I’m currently learning nodejs  
-- 👯 I’m looking to collaborate on open source android projects  
-- 🤔 I’m looking for help with publishing android libraries 
-- 💬 Ask me about Android Development  
-
-
-### 📭 Reach me out : 
-[<img src='https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/assets/icons/github_icon.png?raw=true' alt='github' height='30'>](https://github.com/JyotimoyKashyap) [<img src='https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/assets/icons/linkedin_icon.png?raw=true' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jyotimoykashyap//)  [<img src='https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/assets/icons/facebook_icon.png?raw=true' alt='facebook' height='30'>](https://www.facebook.com/https://www.facebook.com/jyotimoy.kashyap.33)  [<img src='https://github.com/JyotimoyKashyap/JyotimoyKashyap/blob/main/assets/icons/instagram_icon.png?raw=true' alt='instagram' height='30'>](https://www.instagram.com/https://www.instagram.com/jyotimoy_kashyap06//)  
-
-
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JyotimoyKashyap&show_icons=true&count_private=true&theme=tokyonight)   -->
+[![Website](https://img.shields.io/badge/Website-jyotimoykashyap.me-black?style=flat-square&logo=google-chrome)](https://jyotimoykashyap.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jyotimoykashyap-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jyotimoykashyap)
+[![Medium](https://img.shields.io/badge/Medium-@jyotimoykashyap-12100E?style=flat-square&logo=medium)](https://medium.com/@jyotimoykashyap)
+[![Email](https://img.shields.io/badge/Email-jyotimoykashyap123%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:jyotimoykashyap123@gmail.com)
 
 ---
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JyotimoyKashyap&theme=github)   -->
+### 💻 About Me
 
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JyotimoyKashyap&theme=dark)  -->
+- 🏢 **Software Engineer II at Oracle NetSuite** (2x *Star Performer* Award Winner, 2025 & 2026).
+- ⚙️ Architecting 0-to-1 core Java backend services, high-throughput partitioned batch processing pipelines, and multi-tenant dimensional models.
+- 🔬 Creator of **[System Design Labs](https://jyotimoykashyap.me)** — an open-source monorepo exploring concurrent LLD patterns in modern Java (21/25) and interactive distributed systems simulations (Raft, Consistent Hashing, Token Bucket).
+- 🏆 **HackHarvard 2021 Winner** (1st Place Best Overall).
 
-| Github Stats | Github Streak |
-|--------------|---------------|
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotimoyKashyap&layout=compact&theme=tokyonight&hide=css,ejs,html,jupyter,yacc,lex,c%20notebook&langs_count=8) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JyotimoyKashyap&show_icons=true&count_private=true&theme=tokyonight)    |
+---
 
+### 🛠️ Core Stack & Focus
 
+- **Languages:** Java (21/25), SQL / PL-SQL, TypeScript
+- **Architecture & Design:** Distributed Systems (HLD), Low-Level Design (LLD), Concurrency & Multithreading, Dimensional Data Modeling
+- **Backend & Data:** Spring Boot, REST APIs, Oracle Database, PostgreSQL, Redis, Apache Kafka, Docker
 
-![Profile views](https://gpvc.arturio.dev/JyotimoyKashyap)  
+---
+
+### 📌 Featured Work
+
+#### 🧪 [System Design Labs](https://jyotimoykashyap.me)
+> Open-source distributed systems and low-level design monorepo built with Java 21/25, Spring Boot, Redis, and TypeScript.
+- **Low-Level Design (LLD):** Production-grade thread-safe data structures, concurrency primitives, and design patterns.
+- **Distributed Protocol Simulations:** Interactive visualizations and breakdowns of consensus and coordination algorithms (Raft, Consistent Hashing, Rate Limiting).
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyotimoyKashyap&layout=compact&theme=tokyonight&hide=css,html" alt="Top Languages" />
+</p>
